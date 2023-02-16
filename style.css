@@ -1,0 +1,19 @@
+body
+{
+    font-family: 'Anton', sans-serif;
+    background-color: rgba(80, 73, 170, 0.288);
+}
+
+
+.copy_right_footer {
+    position: fixed;
+    color: rebeccapurple;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px plum;
+}
